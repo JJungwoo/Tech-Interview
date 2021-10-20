@@ -16,5 +16,7 @@
 - 알고리즘
 - 운영체제
 - 네트워크
-- 데이터베이스
+- [데이터베이스](https://github.com/JJungwoo/Tech-Interview/blob/main/database/contents.md)
+- [디자인패턴](https://github.com/JJungwoo/Tech-Interview/blob/main/design-pattern/contents.md)
+- [ETC](https://github.com/JJungwoo/Tech-Interview/blob/main/etc/contents.md)
 
